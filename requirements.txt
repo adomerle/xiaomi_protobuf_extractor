@@ -1,0 +1,4 @@
+pyshark
+protobuf
+pycryptodome
+loguru
